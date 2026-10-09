@@ -53,7 +53,11 @@ The dataset contains product-level transaction records from an online retail bus
 | `Country` | Customer country |
 
 The dataset includes both completed and cancelled transactions.
+This project uses the UCI Online Retail dataset.
+The dataset is not included in this repository due to file size considerations.
+Download the dataset from the official UCI Machine Learning Repository and place the file here as:
 
+`Online_Retail.xlsx`
 ---
 
 ## Project Workflow
