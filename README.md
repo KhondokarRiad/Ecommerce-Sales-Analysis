@@ -196,15 +196,6 @@ The project includes visual analysis of:
 - Revenue by weekday
 - Orders by hour
 
-Suggested repository image structure:
-
-```text
-images/
-├── monthly_revenue.png
-├── top_products.png
-├── weekday_revenue.png
-└── hourly_orders.png
-```
 
 ![Monthly Revenue Trend](images/monthly_revenue.png)
 ![Top Products](images/top_products.png)
@@ -215,13 +206,10 @@ images/
 
 ```text
 ecommerce-sales-analysis/
-│
 ├── README.md
 ├── ecommerce_sales_analysis.ipynb
-│
 ├── data/
-│   └── Online_Retail.xlsx
-│
+│   └── README.md
 └── images/
     ├── monthly_revenue.png
     ├── top_products.png
