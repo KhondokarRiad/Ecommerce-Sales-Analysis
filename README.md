@@ -206,13 +206,10 @@ images/
 └── hourly_orders.png
 ```
 
-Example README usage:
-
-```markdown
 ![Monthly Revenue Trend](images/monthly_revenue.png)
-```
-
----
+![Top Products](images/top_products.png)
+![Revenue by Weekday](images/weekday_revenue.png)
+![Orders by Hour](images/hourly_orders.png)
 
 ## Repository Structure
 
